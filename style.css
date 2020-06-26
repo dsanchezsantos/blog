@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*PRINCIPAIS*/
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-size: 100%;
+}
+
+footer {
+    margin-top: 20px;
+    text-shadow: 3px 3px 6px black;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    text-align: center;
+}
+
+h3 {
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgba(99, 98, 98, 0.452);
+    text-align: center;
+    color: white;
+    text-shadow: 3px 3px 6px black;
+}
+
+h5 {
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    color: white;
+}
+
+/*ID'S*/
+#escrita {
+    margin: auto;
+    background-color: rgba(99, 98, 98, 0.452);
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 6px black;
+}
+
+#cards {
+    margin-top: 40px;
+    color: white;
+    background: rgba(99, 98, 98, 0.719);
+    box-shadow: 3px 3px 6px black;
+}
+
+
+
+/*CLASSES*/
